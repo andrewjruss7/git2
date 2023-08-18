@@ -10,3 +10,6 @@ alert('Hello World');
 //las clone en windom pero cuando intento correrlas en cypress aparece un erro , 
 //tengo que instalar el cypress o algo?
 // Solo debes correr el comando npm install en el proyecto, npm instalara todo lo que necesitas para correr de nuevo el proyecto
+
+
+// TEEEEEEEEEESSSSSSSSSTTTTTT
