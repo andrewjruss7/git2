@@ -4,3 +4,5 @@ alert('Hello World');
 //Hello, I am Sebastian!
 
 // Hello Sebas! great job!
+
+// Teacher Andrew, you're a crack!
